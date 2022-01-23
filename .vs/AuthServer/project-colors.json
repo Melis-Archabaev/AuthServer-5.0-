@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "13d29643-3336-4b61-b6ef-7d3c9249d03a": {
+      "ProjectGuid": "13d29643-3336-4b61-b6ef-7d3c9249d03a",
+      "DisplayName": "AuthServer.API",
+      "ColorIndex": 0
+    },
+    "6a60c1c6-fbba-4c9a-a72e-9512abf15989": {
+      "ProjectGuid": "6a60c1c6-fbba-4c9a-a72e-9512abf15989",
+      "DisplayName": "AuthServer.Core",
+      "ColorIndex": 1
+    },
+    "59018ed6-1f08-46cf-8a53-f703baca1234": {
+      "ProjectGuid": "59018ed6-1f08-46cf-8a53-f703baca1234",
+      "DisplayName": "AuthServer.Data",
+      "ColorIndex": 2
+    },
+    "eaca6766-5374-4221-b53f-1fca5af93537": {
+      "ProjectGuid": "eaca6766-5374-4221-b53f-1fca5af93537",
+      "DisplayName": "AuthServer.Service",
+      "ColorIndex": 3
+    },
+    "866ad66f-7cdf-4d2c-ad51-7bb0bc4618c9": {
+      "ProjectGuid": "866ad66f-7cdf-4d2c-ad51-7bb0bc4618c9",
+      "DisplayName": "MiniApp1.API",
+      "ColorIndex": 4
+    },
+    "039bc890-815c-4c05-891c-049dbab624c1": {
+      "ProjectGuid": "039bc890-815c-4c05-891c-049dbab624c1",
+      "DisplayName": "MiniApp2.API",
+      "ColorIndex": 5
+    },
+    "efb7accd-981f-49a7-8bd5-9732cc1ba95f": {
+      "ProjectGuid": "efb7accd-981f-49a7-8bd5-9732cc1ba95f",
+      "DisplayName": "MiniApp3.API",
+      "ColorIndex": 6
+    },
+    "29dd9b30-ed51-4232-ad0c-04321c13db3b": {
+      "ProjectGuid": "29dd9b30-ed51-4232-ad0c-04321c13db3b",
+      "DisplayName": "SharedLibrary",
+      "ColorIndex": 7
+    },
+    "e5d5e0f5-adc2-4416-9c71-31b734191203": {
+      "ProjectGuid": "e5d5e0f5-adc2-4416-9c71-31b734191203",
+      "DisplayName": "MiniApp3.API",
+      "ColorIndex": 8
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 9
+}
